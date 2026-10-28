@@ -129,9 +129,10 @@ Bash
 curl "http://localhost:8081/api/v1/expand/chk_dc8e54?startLine=1&endLine=20"
 
 
-! If you add a small note: "While Cloudflare's Code Mode solves MCP tool-definition bloat on the input side,
- Agent Token Optimizer solves tool-output bloat (logs, AST code, JVM stack traces) on the response side" 
-— then every developer will know you're on top of the latest industry trends!
+While Cloudflare's Code Mode solves MCP tool-definition bloat on the input side,
+Agent Token Optimizer solves tool-output bloat (logs, AST code, JVM stack traces) on the response side 
+
+
 📜 License
 MIT License. Free for personal and commercial use.
 
